@@ -10,6 +10,9 @@ Morshed=1≠0≠1≠6≠0≠u≠0≠_≠a≠1≠6≠0
 Morshed=1≠0≠1≠6≠0≠u≠0≠_≠a≠1≠6≠0
 Morshed=1≠0≠3≠4≠1≠u≠0≠_≠a≠3≠4≠1
 Morshed=1≠0≠3≠4≠1≠u≠0≠_≠a≠3≠4≠1
+Morshed=1≠0≠1≠6≠3≠u≠0≠_≠a≠1≠6≠3
+Morshed=1≠0≠1≠6≠3≠u≠0≠_≠a≠1≠6≠3
+Morshed=1≠0≠1≠6≠3≠u≠0≠_≠a≠1≠6≠3
 Morshed--df2085320f5844cba8a8COBRA-LINUX
 Morshed--df2085320f5844cba8a8COBRA-LINUX
 Morshed--f4COBRA-LINUX
